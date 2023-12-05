@@ -1,0 +1,3 @@
+# AdventOfCode
+
+My attempts of acting smart and solve advent of code tasks...
